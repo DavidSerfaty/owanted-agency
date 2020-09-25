@@ -1,0 +1,24 @@
+.logo{
+  height: 50px;
+}
+.jumbotron{
+  color: #fff;
+  background: linear-gradient(#071657, #0A7296);
+  height: 100%;
+}
+.navbar{
+  background: #071657;
+}
+.jumbotron-content{
+  padding: 10%;
+}
+.card{
+  padding: 30px 10px;
+}
+/* .image-card{
+  height: 150px;
+} */
+.contact-section{
+  color: #fff;
+  background: linear-gradient(#071657, #0A7296);
+}
